@@ -6,7 +6,7 @@ I build and ship apps under **CKMADETHIS**, my public product and portfolio pers
 
 ## Now Building
 
-- **[agent-design-gate](https://github.com/ckmadethis/agent-design-gate)** - a CLI and hook pack that catches generic AI frontend output before it ships.
+- **[agent-design-gate](https://github.com/ckmadethis/agent-design-gate)** - ESLint for AI-looking UI; a CLI and hook pack that catches generic agent-generated frontend patterns before they ship.
 - **SignBolt** - e-signature SaaS for signing PDF documents.
 - **ScrapeProof** - deploy-exposure scanner for exposed `.env`, `.git`, source maps and documentation files.
 - **VenueGuide / PetGuides** - structured search and directory products.
