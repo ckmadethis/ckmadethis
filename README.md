@@ -37,7 +37,7 @@ Three.js / WebGL
 
 ## Links
 
-- Portfolio: https://ckmadethis.com/
+- Portfolio: https://portfolio.ckmadethis.com/
 - GitHub: https://github.com/ckmadethis
 - X / Twitter: https://x.com/ckmadethis
 - Email: ck@ckmadethis.com
